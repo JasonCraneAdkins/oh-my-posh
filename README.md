@@ -1,3 +1,3 @@
 # oh-my-posh
 
-Themes for Oh-My-Posh that i have created
+My Themes for Oh-My-Posh
